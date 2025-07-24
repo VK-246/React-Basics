@@ -1,0 +1,12 @@
+- web-vitals for web performance
+- Zest for testing
+- Scripts run and build in production to automate execution 
+- Start: dev env me proj chalane ke lie
+- Build: Production me jaake html/css/js generate krna react ka
+- testing
+- eject: Eject krna react ko koi aur library use krne ke lie
+- lint: highlighters
+- browser list
+- Use Onlyf npm run initially
+- BUILD IS SERVED TO ALL USERS
+- dependency bs react our rrd h pr dev dependencies bahut saari h.
