@@ -1,12 +1,14 @@
+- The create react app contains a lot of scripts and dependencies
 - web-vitals for web performance
-- Zest for testing
+- Jest for testing
 - Scripts run and build in production to automate execution 
-- Start: dev env me proj chalane ke lie
+- Start: proj ko prod ready env me proj chalane ke lie 
+- dev: to run in dev env
 - Build: Production me jaake html/css/js generate krna react ka
 - testing
 - eject: Eject krna react ko koi aur library use krne ke lie
 - lint: highlighters
-- browser list
-- Use Onlyf npm run initially
-- BUILD IS SERVED TO ALL USERS
+- browser list available
+- Use Only npm run initially
+- BUILD IS SERVED TO ALL USERS irrespective of h/w config(min requirements must be fulfilled)
 - dependency bs react our rrd h pr dev dependencies bahut saari h.
