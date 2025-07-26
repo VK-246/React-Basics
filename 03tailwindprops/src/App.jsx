@@ -12,9 +12,9 @@ function App() {
         <h1 className='bg-green-400 text-black p-4 rounded-4xl '>Tailwind test</h1>
         <Card details={details1} />
         <Card2 title="Accident Detection" btnTxt="Github ->" />
+        <Card2 {...details1} />
         {/* <Card /> */}
       </div>
-
     </>
   )
 }

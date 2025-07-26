@@ -8,7 +8,7 @@ function App() {
   let [counter,setCounter] = useState(0);
 
   // let counter = 0;
-   const addValue = () =>{
+  const addValue = () =>{
     // counter = counter+1;
     if(counter === 20){
       alert("value cannot be greater than 20");
